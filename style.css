@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+}
+
+
+#countLabel{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+    padding: 7px;
+    margin: 32px;
+    color: rgb(11, 1, 1);
+    
+}
+
+.btn{
+    display: block;
+    font-size: 10px;
+    text-align: center;
+    margin-bottom: 80px;
+    background-color: ;
+}
+
+#decreaseBtn{
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    padding: 4px;
+    margin: 4px;
+}
+
+#resetBtn{
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    padding: 4px;
+    margin: 4px;
+}
+
+
+#increaseBtn{
+    background-color: black;
+    color: white;
+    font-size: 1.2rem;
+    padding: 4px;
+    margin: 4px;
+}
+
+
+.container{
+    width: 360px;
+    margin-bottom: 330px;
+    padding: 33px;
+    background-color: white;
+    margin-left: 33%;
+    margin-top: 240px;
+    text-align: center;
+    justify-content: center;
+}
